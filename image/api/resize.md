@@ -22,7 +22,7 @@ Closure callback defining constraints on the resize. It's possible to contraint 
 
 > public Intervention\Image\Size aspectRatio()
 
-Constraint the current aspect-ratio if the image.
+Constraint the current aspect-ratio of the image.
 
 #### upsize
 
